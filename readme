@@ -1,0 +1,6 @@
+To run the program type the following commands(in linux):
+
+make
+./main
+
+the above 2 commands will run the game //and the warnings issued can be ignored for once\\
